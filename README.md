@@ -4,4 +4,4 @@ error.cpp - Prints to stdout & stderr
 
 hello.cpp - Prints to stdout
 
-math.cpp - Demonstrates mathematical operations (+, -, \*, /, %)
+math.cpp - Demonstrates mathematical operations (+  -  \*  /  %)
