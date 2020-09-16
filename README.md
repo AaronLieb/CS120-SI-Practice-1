@@ -1,5 +1,7 @@
-# CS120-SI-Practice-1
+# CPSC 120 Supplemental Instruction Practice 1
 
-error.cpp - prints to stdout & stderr
+error.cpp - Prints to stdout & stderr
 
-hello.cpp - prints to stdout
+hello.cpp - Prints to stdout
+
+math.cpp - Demonstrates mathematical operations (+, -, \*, /, %)
