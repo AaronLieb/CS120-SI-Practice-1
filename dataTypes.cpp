@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-	int integer = 5;
-	double decimal = 2.5;
+	long int integer = 5;
+	float decimal = 2.5;
 	char character = 'C';
 	string word = "Carrot";
 	bool boolean = true;
