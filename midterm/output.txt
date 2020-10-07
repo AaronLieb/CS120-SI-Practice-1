@@ -1,0 +1,5 @@
+Enter your favorite number: Enter your three favorite foods: Enter your full name: 
+========================================
+Your name is Luke Skywalker.
+Your favorite foods are pizza, spaghetti, and sushi.
+Your favorite number is 42.
