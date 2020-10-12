@@ -1,5 +1,5 @@
 Enter your favorite number: Enter your three favorite foods: Enter your full name: 
 ========================================
-Your name is .
-Your favorite foods are , , and .
-Your favorite number is 0.
+Your name is 5.
+Your favorite foods are 5, 5, and 5.
+Your favorite number is 5.
